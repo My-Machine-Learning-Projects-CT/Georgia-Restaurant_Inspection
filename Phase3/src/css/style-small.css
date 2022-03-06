@@ -1,0 +1,57 @@
+/*
+	Highlights by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	h2 {
+		font-size: 1.35em;
+	}
+
+/* Main */
+
+	.main .container {
+		padding: 3em 1.5em 1em 1.5em;
+	}
+
+		.main .container .image.primary:first-child {
+			margin: -1.5em 0 2.5em 0;
+		}
+
+	.main .goto-next {
+		display: none;
+	}
+
+/* Header */
+
+	#header {
+		height: 80vh;
+	}
+
+		#header:after {
+			height: 80vh;
+		}
+
+		#header header {
+			padding-bottom: 0;
+		}
+
+			#header header h1 {
+				font-size: 2em;
+			}
+
+			#header header p {
+				margin-top: 1em;
+			}
+
+		#header .container {
+			display: none;
+		}
+
+/* Footer */
+
+	#footer .container {
+		padding: 3em 1.5em 1em 1.5em;
+	}
