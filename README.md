@@ -1,6 +1,5 @@
 # Project: Georgia Restaurant Inspection
-A group project in CS4400: Intro to Database Systems at Georgia Tech Summer 2015 semester. 
-Please refer to RestaurantInspection_v1.2.pdf for the project guidelines
+ Please refer to RestaurantInspection_v1.2.pdf for the project guidelines
 
 ## Project Progress Logs
 Below are notes of all activities throughout the duration of the project.
