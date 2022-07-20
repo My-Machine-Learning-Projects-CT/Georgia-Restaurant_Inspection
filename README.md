@@ -1,5 +1,9 @@
 # Project: Georgia Restaurant Inspection
- Please refer to RestaurantInspection_v1.2.pdf for the project guidelines
+ 
+ The purpose of this project is to analyze, specify, design, implement, document, and demonstrate a database management information system called the Georgia Restaurant Health Inspection System. The project will proceed in three phases as outlined in the Classical Methodology for Database Development: Analysis & Specification, Design, and Implementation & Testing. The system should be implemented using a Database Management System (DBMS) that supports standard SQL queries. Class administrators will provide you with information about how to access a college-managed MySQL server in order to implement your database. Your professor must approve alternative implementations. Under no circumstances may you use a tool that automatically generates SQL or automatically maps programming objects into the database.
+ 
+Please refer to RestaurantInspection_v1.2.pdf for the project guidelines
+ 
 
 ## Project Progress Logs
 Below are notes of all activities throughout the duration of the project.
